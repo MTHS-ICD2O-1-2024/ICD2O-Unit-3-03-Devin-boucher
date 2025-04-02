@@ -15,7 +15,7 @@ function Calculate() {
   const resultDisplay = document.getElementById("Answer")
 
   // Calculate Volume of Sphere: ( 4 / 3) * Math.PI * Radius ** 3
-  const Volume = ( 4 / 3) * Math.PI * Radius ** 3
+  const Volume = (4 / 3) * Math.PI * Radius ** 3
 
   // Display the result
   resultDisplay.innerHTML = `The area of the Sphere is: <strong>${Volume.toFixed(2)}</strong> cm²`
