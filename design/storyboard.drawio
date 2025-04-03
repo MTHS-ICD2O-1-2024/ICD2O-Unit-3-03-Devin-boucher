@@ -1,11 +1,29 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="399" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="709" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="40" y="40" width="760" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Volume of a pyramid, in JS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="7">
+                    <mxGeometry x="255" y="40" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;V = ( 4 / 3 )&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(31, 31, 31); font-family: XITSMath-Regular, Arial, sans-serif; font-style: italic; text-align: start;&quot;&gt;π x r ** 3&lt;/span&gt;&lt;/font&gt;&lt;h5 style=&quot;padding: 0px; font-size: 20px; font-weight: 500; line-height: 1; letter-spacing: 0.02em; font-family: Roboto, Helvetica, Arial, sans-serif; margin: 24px 0px 16px; color: rgba(0, 0, 0, 0.87); text-align: start; text-wrap-mode: wrap; background-color: rgb(140, 78, 216);&quot;&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry x="20" y="123" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Calculate" style="whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="30" y="270" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Please enter the following:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="7">
+                    <mxGeometry x="10" y="160" width="230" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Equation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="65" y="133" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Radius (cm)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="65" y="248" width="90" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
